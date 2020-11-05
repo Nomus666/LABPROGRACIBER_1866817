@@ -16,3 +16,4 @@ echo 'Private IP: '$privIP
 echo 'Public IP: '$publicIP
 
 scanner ${mask[0]}"."${mask[1]}"."${mask[2]}".0/24"
+
